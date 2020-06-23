@@ -10,7 +10,7 @@ namespace CashCodeTest
     {
         static int Sum = 0;
 
-        static CashCodeBillValidator c = new CashCodeBillValidator("COM4", 9600);
+        static CashCodeBillValidator c = new CashCodeBillValidator("COM1", 9600);
 
 
         static void Main(string[] args)
